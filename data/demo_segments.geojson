@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "id": "seg_001", "score": 6 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-122.347, 47.620],
+          [-122.343, 47.617]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "seg_002", "score": 12 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-122.336, 47.615],
+          [-122.331, 47.612]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "seg_003", "score": 18 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-122.323, 47.610],
+          [-122.317, 47.606]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "seg_004", "score": 24 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-122.312, 47.604],
+          [-122.306, 47.600]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "seg_005", "score": 30 },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-122.305, 47.595],
+          [-122.299, 47.592]
+        ]
+      }
+    }
+  ]
+}
